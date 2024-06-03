@@ -30,42 +30,44 @@ A curated list of awesome video face restoration  papers and resources :whale:, 
 
 - `[ICCV'21]` A new journey from sdrtv to hdrtv [Paper]([https://openaccess.thecvf.com/content/ICCV2021/html/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.html]) | [Project]([https://github.com/chxy95/HDRTVNet]) 
 - `[CVPR'23]` Learning a Practical SDR-to-HDRTV Up-conversion using New Dataset and Degradation Models [Paper]([https://openaccess.thecvf.com/content/ICCV2021/html/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.html]) | [Project]([https://github.com/AndreGuo/HDRTVDM]) 
-- `[TMM'21]` Bidirectional Translation Between UHD-HDR and HD-SDR Videos [Paper]([https://ieeexplore.ieee.org/abstract/document/10025794]) | [Project]([]) 
+- `[TMM'21]` Bidirectional Translation Between UHD-HDR and HD-SDR Videos [Paper]([https://ieeexplore.ieee.org/abstract/document/10025794])) 
 - `[ACMMM'22]` Fmnet: Frequency-aware modulation network for sdr-to-hdr translation [Paper]([https://dl.acm.org/doi/abs/10.1145/3503161.3548016]) | [Project]([https://github.com/MCG-NKU/FMNet]) 
 - `[ACMMM'22]` SDRTV-to-HDRTV via hierarchical dynamic context feature mapping [Paper]([https://dl.acm.org/doi/abs/10.1145/3503161.3548043]) | [Project]([https://github.com/iii935/HDCFM]) 
-- `[ECCV'22]` Towards real-world hdrtv reconstruction: A data synthesis-based approach [Paper]([https://link.springer.com/chapter/10.1007/978-3-031-19800-7_12]) | [Project]([]) 
-- `[ACMMM'22]` Hybrid conditional deep inverse tone mapping [Paper]([https://dl.acm.org/doi/abs/10.1145/3503161.3548129]) | [Project]([]) 
-- `[Machine Intelligence Research]` Dual Frequency Transformer for Efficient SDR-to-HDR Translation [Paper]([]) | [Project]([]) 
-- `[IEEE MultiMedia]` Revive SDR Videos to HDR Devices: A Learning Paradigm with Hybrid Attention Mechanisms [Paper]([]) | [Project]([]) 
-- `[ArXiv]` Arthdr-net: Perceptually realistic and accurate hdr content creation [Paper]([]) | [Project]([]) 
-- `[ArXiv]` EffiHDR: An Efficient Framework for HDRTV Reconstruction and Enhancement in UHD Systems [Paper]([]) | [Project]([]) 
-- `[Access]` DenSE SwinHDR: SDRTV to HDRTV Conversion Using Densely Connected Swin Transformer With Squeeze and Excitation Module [Paper]([]) | [Project]([]) 
-- `[ICIP]` Efficient-HDRTV: Efficient SDR to HDR Conversion for HDR TV [Paper]([]) | [Project]([])
-- `[ICIP]` Efficient-HDRTV: Efficient SDR to HDR Conversion for HDR TV [Paper]([]) | [Project]([])
-- `[ICIP]` Efficient-HDRTV: Efficient SDR to HDR Conversion for HDR TV [Paper]([]) | [Project]([])
-- `[ICIP]` Efficient-HDRTV: Efficient SDR to HDR Conversion for HDR TV [Paper]([]) | [Project]([])
-- `[ICIP]` Efficient-HDRTV: Efficient SDR to HDR Conversion for HDR TV [Paper]([]) | [Project]([])
-- `[ICIP]` Efficient-HDRTV: Efficient SDR to HDR Conversion for HDR TV [Paper]([]) | [Project]([])
-- `[ICIP]` Efficient-HDRTV: Efficient SDR to HDR Conversion for HDR TV [Paper]([]) | [Project]([])
+- `[ECCV'22]` Towards real-world hdrtv reconstruction: A data synthesis-based approach [Paper]([https://link.springer.com/chapter/10.1007/978-3-031-19800-7_12]) 
+- `[ACMMM'22]` Hybrid conditional deep inverse tone mapping [Paper]([https://dl.acm.org/doi/abs/10.1145/3503161.3548129])
+- `[Machine Intelligence Research]` Dual Frequency Transformer for Efficient SDR-to-HDR Translation )
+- `[IEEE MultiMedia]` Revive SDR Videos to HDR Devices: A Learning Paradigm with Hybrid Attention Mechanisms
+- `[ArXiv]` Arthdr-net: Perceptually realistic and accurate hdr content creation 
+- `[ArXiv]` EffiHDR: An Efficient Framework for HDRTV Reconstruction and Enhancement in UHD Systems 
+- `[Access]` DenSE SwinHDR: SDRTV to HDRTV Conversion Using Densely Connected Swin Transformer With Squeeze and Excitation Module 
+- `[ Applied Sciences'24]` A Display-Adaptive Pipeline for Dynamic Range Expansion of Standard Dynamic Range Video Content 
+- `[ACMMM'23]` Video Inverse Tone Mapping Network with Luma and Chroma Mapping 
+- `[ACMMM'23]` Redistributing the Precision and Content in 3D-LUT-based Inverse Tone-mapping for HDR/WCG Display 
+- `[ArXiv]` Zoned mapping network from sdr video to hdr video 
+- `[ArXiv]` FastHDRNet: A new efficient method for SDR-to-HDR Translation 
+- `[ArXiv]` Hdrtvformer: Efficient Sdrtv-to-Hdrtv via Affine Transformation and Spatial-Aware Transformer
+- `[ArXiv]` DeepHS-HDRVideo: deep high speed high dynamic range video reconstruction
+- `[ICASSP'24]` Extremely Light-Weight Learning Based LDR to PQ HDR Conversion Using Bernstein Curves
 
 
 ### SDRTV-to-HDRTV with SR
 
-- `[Neural Computing 22]` Global priors guided modulation network for joint super-resolution and SDRTV-to-HDRTV [Paper]([https://www.sciencedirect.com/science/article/pii/S0925231223007130]) | [Project]([])
-- `[Displays]` Multi-scale-based joint super-resolution and inverse tone-mapping with data synthesis for UHD HDR video [Paper]([]) | [Project]([])
+- `[Neural Computing 22]` Global priors guided modulation network for joint super-resolution and SDRTV-to-HDRTV [Paper]([https://www.sciencedirect.com/science/article/pii/S0925231223007130])
+- `[Displays]` Multi-scale-based joint super-resolution and inverse tone-mapping with data synthesis for UHD HDR video 
 
 ### SDRTV-to-HDRTV with Deart
 
-- `[Neural Computing 22]` Global priors guided modulation network for joint super-resolution and SDRTV-to-HDRTV [Paper]([https://www.sciencedirect.com/science/article/pii/S0925231223007130]) | [Project]([])
-- `[ArXiv]` Towards Robust SDRTV-to-HDRTV via Dual Inverse Degradation Network [Paper]([]) | [Project]([])
-- `[TPAMI]` Compressed-SDR to HDR Video Reconstruction [Paper]([]) | [Project]([]) 
-- `[TPAMI]` Removing Banding Artifacts in HDR Videos Generated From Inverse Tone Mapping [Paper]([]) | [Project]([]) 
+- `[Neural Computing 22]` Global priors guided modulation network for joint super-resolution and SDRTV-to-HDRTV [Paper]([https://www.sciencedirect.com/science/article/pii/S0925231223007130])
+- `[ArXiv]` Towards Robust SDRTV-to-HDRTV via Dual Inverse Degradation Network 
+- `[TPAMI]` Compressed-SDR to HDR Video Reconstruction 
+- `[ArXiv]` Removing Banding Artifacts in HDR Videos Generated From Inverse Tone Mapping 
+- `[ArXiv]` Contour Artifact Removal for Expanded HDR Content 
 
 
 ### HDR IQA
-- `[ArXiv]` HIDRO-VQA: High Dynamic Range Oracle for Video Quality Assessment [Paper]([https://openaccess.thecvf.com/content/WACV2024W/VAQ/html/Saini_HIDRO-VQA_High_Dynamic_Range_Oracle_for_Video_Quality_Assessment_WACVW_2024_paper.html]) | [Project]([])
-- `[ArXiv]` A Dataset and Model for the Visual Quality Assessment of Inversely Tone-Mapped HDR Videos [Paper]([]) | [Project]([])
-- `[ArXiv]` Inverse-tone-mapped HDR video quality assessment: A new dataset and benchmark [Paper]([]) | [Project]([])
+- `[ArXiv]` HIDRO-VQA: High Dynamic Range Oracle for Video Quality Assessment [Paper]([https://openaccess.thecvf.com/content/WACV2024W/VAQ/html/Saini_HIDRO-VQA_High_Dynamic_Range_Oracle_for_Video_Quality_Assessment_WACVW_2024_paper.html]) 
+- `[ArXiv]` A Dataset and Model for the Visual Quality Assessment of Inversely Tone-Mapped HDR Videos
+- `[ArXiv]` Inverse-tone-mapped HDR video quality assessment: A new dataset and benchmark
 
 
 ## Datasets
