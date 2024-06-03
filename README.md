@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![collection](https://img.shields.io/badge/Collection-Keep%20Updating-green) ![badgen](https://api.infinitescript.com/badgen/count?name=hzxie/badgen&ltext=%20Visitors)
 
 
-A curated list of awesome video face restoration  papers and resources :whale:, inspired by [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF). 
+A curated list of awesome SDRTV-to-HDRTV  papers and resources :whale:, inspired by [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF). 
 
 
 
