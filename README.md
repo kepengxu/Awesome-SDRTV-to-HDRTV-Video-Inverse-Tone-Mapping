@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logov1.png" height=150>
+  <img src="assets/logov1.png" height=300>
 </p>
 
 # Awesome-SDRTV-to-HDRTV-Video-Inverse-Tone-Mapping
