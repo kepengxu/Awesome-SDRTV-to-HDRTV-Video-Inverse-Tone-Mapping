@@ -52,6 +52,7 @@ A curated list of awesome SDRTV-to-HDRTV  papers and resources :whale:, inspired
 - `[ArXiv]` Hdrtvformer: Efficient Sdrtv-to-Hdrtv via Affine Transformation and Spatial-Aware Transformer
 - `[ArXiv]` DeepHS-HDRVideo: deep high speed high dynamic range video reconstruction
 - `[ICASSP'24]` Extremely Light-Weight Learning Based LDR to PQ HDR Conversion Using Bernstein Curves
+- `[CVPRW24]` DCDR-UNet: Deformable Convolution Based Detail Restoration via U-shape Network for Single Image HDR Reconstruction
 
 
 ### SDRTV-to-HDRTV with SR
